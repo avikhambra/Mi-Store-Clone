@@ -1,0 +1,1 @@
+export const logo = "https://i01.appmifile.com/webfile/globalimg/pandora/mi-logo.svg"
